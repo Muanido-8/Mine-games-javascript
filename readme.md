@@ -34,9 +34,9 @@ Um jogo estilo **infinite runner**, onde o personagem corre e precisa pular os o
 - Estilo visual inspirado em jogos de plataforma retrô  
 
 #### 🖼️ Captura de tela
-![HRun](./hrun1.png)  
+![HRun](./hrun1.PNG)  
 ![HRun](./hrun2.png)  
-![HRun](./hrun13.png)  
+![HRun](./hrun3.png)  
 
 ---
 
